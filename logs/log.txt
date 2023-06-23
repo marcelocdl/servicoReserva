@@ -1,0 +1,17 @@
+
+ Nome da Reserva: Marcelo Lima
+ Poltrona: 05
+ Ip:/127.0.0.1
+ Host:  localhost:8080
+ Método: GET /finalizar?nome=Marcelo+Lima&num=05 HTTP/1.1
+ Data e hora: 28/05/2023 12:13:18
+ **********
+
+
+ Nome da Reserva: Aasdas
+ Poltrona: 09
+ Ip:/127.0.0.1
+ Host:  localhost:8080
+ Método: GET /finalizar?nome=Aasdas&num=09 HTTP/1.1
+ Data e hora: 22/06/2023 20:47:03
+ ********** 
